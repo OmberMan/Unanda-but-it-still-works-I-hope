@@ -1,6 +1,7 @@
 # Changelog for v1.5.1
 - Changed the syntax of the Unandai national ability.
 
+***
 
 # Unanda
 Play as the populous Mesopotamian nation, led by Uordus, a ruler shouded in myth and legend.
@@ -19,5 +20,4 @@ Compatible with vanilla UnCiv, [RekMOD](https://github.com/ravignir/RekMOD), and
 ***Unique Unit: Riverside Archer** (Replaces Archer)*  
 > Coupled with the Riverside Warrior, they combine to make a formidable force that dominated the early Bronze Age world.
 
-If you have any concerns feel free to contact me on Discord (Cavenir#6636), or you could reach out using the links provided on [my website](https://secession-cycles.carrd.co/). Thank you.
-
+If you have any concerns feel free to reach out using the links provided on [my website](https://secession-cycles.carrd.co/). Thank you.
