@@ -10,7 +10,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["May withdraw before melee ([40]%)", "Bonus vs Mounted 25%", "Double movement in [River]", "[1] Movement point cost to embark"], 
+		"uniques": ["May withdraw before melee ([40]%)", "Bonus vs Mounted 25%", "Double movement in [River]", "[1] Movement point cost to embark", "[+50]% to Flank Attack bonuses <when fighting in [Flood plains] tiles>"], 
 		"promotions": ["Amphibious"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
