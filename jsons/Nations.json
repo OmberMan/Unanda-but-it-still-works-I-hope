@@ -4,7 +4,7 @@
 		"name":"Unanda",
 		"leaderName":"The Great Unifier Uordus",
 		"adjective":["Unandai"],
-		"startBias":["Desert","Flood plains","Avoid Coast","Avoid Forest","Avoid Jungle"],
+		"startBias":["Flood plains","Avoid Forest","Avoid Jungle","Avoid Tundra"],
 		"preferredVictoryType":"Domination",
 		
 		"startIntroPart1": "Oh Great Unifier Uordus, ruler of the lands between. You guide your people into great prosperity, with your farms that multiply hands and feed mouths, to your loyal and steadfast spears and arrows, ready to defend Unanda. Oh you, progenitor of fertility, you bring your friends to happiness and clear skies while you bring your enemies to destruction and ruin.",
@@ -32,7 +32,7 @@
 		"innerColor":[65, 105, 225],
 		
 		"uniqueName": "Mesopotamian Prosperity",
-		"uniques": ["[+2 Food] from every [Flood Plains]", "[+1 Production] from every [Flood Plains]", "[+2 Gold] from every [Flood Plains]"],
+		"uniques": ["[+2 Food] from every [Flood Plains]", "[+1 Production] from every [Flood Plains]", "[+1 Gold] from every [Flood Plains]", "[+1 Food] in cities on [River] tiles"],
 	
 		"cities":["Ua","Usa","Ida","Amanasa","Asa","Asu","Osu","Ousa","Ansu","Ussu","Aoda","Daona","Odana","Osasa","Dasana","Assud","Dassa","Idasa","Isa","Os","Aos","Ios","Idos","Dosai","Idon","Oodi","Uano","Uana","Id","Idanasa"]
 	}
