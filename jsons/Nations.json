@@ -5,14 +5,14 @@
 		"leaderName":"The Great Unifier Uordus",
 		"adjective":["Unandai"],
                 "style": "Mesopotamian",
-		"startBias":["River", "Desert", "Avoid Jungle","Avoid Tundra"],
+		"startBias":["Flood plains", "Desert"],
 		"preferredVictoryType":"Domination",
 		
 		"startIntroPart1": "Oh Great Unifier Uordus, ruler of the lands between. You guide your people into great prosperity, with your farms that multiply hands and feed mouths, to your loyal and steadfast spears and arrows, ready to defend Unanda. Oh you, progenitor of fertility, you bring your friends to happiness and clear skies while you bring your enemies to destruction and ruin.",
 		"startIntroPart2": "Oh Great Uordus! The masses call for your name, and your great armies are willing to defend for your guiding hand and shining presence. Will the Hilu and Alu flow with your presence? Will the skies continue to shine on your productive mud farms and bustling cities? Will you stand the test of time?",
 		
 		"declaringWar":"The Ai calls us to war, so prepare to die.",
-		"attacked":"Well, well, well. Let us see if you could stand the might of our sword and shield.",
+		"attacked":"Well, well, well. Let us see if you could stand the might of our sper and shield.",
 		"defeated":"Sigh... It is okay, it is okay. Just remember that Hilu and Alu still flows without us, and I hope that reminds you of the fact that nobody lasts forever.",
 		"introduction":"O-ho! A foreigner! You are very welcome at my prosperous empire.",
 		
@@ -21,19 +21,19 @@
 		"neutralNo":["Hahahaha, No.","I am sorry, but this is not fair!","Nope."],
 		"neutralYes":["Prosperous!","Splendid!","What an agreeable statement, my friend."],
 
-		"hateHello":"What is it?!?",
+		"hateHello":"I wanna fucking tear you apart?!?",
 		"hateLetsHearIt":["Do not bore me with your nonsense.","Continue.","Cut to the chase. What is it?"],
 		"hateNo":["Absolutely not!","What else?!","Preposterous!"],
 		"hateYes":["Just becuase I agreed to this, it doesn't mean that we are friends.","Yeah, go on.","Sigh, I accept your offer."],
 		
-		"afterPeace":"I will promise to the Ai that I will have my revenge.",
+		"afterPeace":"I will promise to the Ai that I will have my revenge. But don't worry about that.",
 		"tradeRequest":"Could you care to share some blessings with me?",
 				
 		"outerColor":[135, 206, 235],
-		"innerColor":[65, 105, 225],
+		"innerColor":[60, 15, 220],
 		
 		"uniqueName": "Mesopotamian Prosperity",
-		"uniques": ["[+2 Food] from every [Flood plains]", "[+1 Production] from every [Flood plains]", "[+1 Gold] from every [Flood plains]", "[+1 Food] in cities on [River] tiles"],
+		"uniques": ["[+2 Food] from every [Flood plains]", "[+1 Production] from every [Flood plains]", "[+1 Production] from every [Flood plains]", "[+20]% Production when constructing [Food] buildings [in all cities]"],
 	
 		"cities":["Ua","Usa","Ida","Amanasa","Asa","Asu","Osu","Ousa","Ansu","Ussu","Aoda","Daona","Odana","Osasa","Dasana","Assud","Dassa","Idasa","Isa","Os","Aos","Ios","Idos","Dosai","Idon","Oodi","Uano","Uana","Id","Idanasa"]
 	}
