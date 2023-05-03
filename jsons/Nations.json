@@ -4,7 +4,7 @@
 		"name":"Unanda",
 		"leaderName":"The Great Unifier Uordus",
 		"adjective":["Unandai"],
-                "style": "Mesopotamian",
+  "style": "Mesopotamian",
 		"startBias":["Flood plains", "Desert"],
 		"preferredVictoryType":"Domination",
 		
@@ -21,7 +21,7 @@
 		"neutralNo":["Hahahaha, No.","I am sorry, but this is not fair!","Nope."],
 		"neutralYes":["Prosperous!","Splendid!","What an agreeable statement, my friend."],
 
-		"hateHello":"I wanna fucking tear you apart?!?",
+		"hateHello":"I want to fucking tear you apart?!?",
 		"hateLetsHearIt":["Do not bore me with your nonsense.","Continue.","Cut to the chase. What is it?"],
 		"hateNo":["Absolutely not!","What else?!","Preposterous!"],
 		"hateYes":["Just becuase I agreed to this, it doesn't mean that we are friends.","Yeah, go on.","Sigh, I accept your offer."],
@@ -29,12 +29,12 @@
 		"afterPeace":"I will promise to the Ai that I will have my revenge. But don't worry about that.",
 		"tradeRequest":"Could you care to share some blessings with me?",
 				
-		"outerColor":[135, 206, 235],
+		"outerColor":[125, 216, 240],
 		"innerColor":[60, 15, 220],
 		
 		"uniqueName": "Mesopotamian Prosperity",
-		"uniques": ["[+2 Food] from every [Flood plains]", "[+1 Production] from every [Flood plains]", "[+1 Production] from every [Flood plains]", "[+20]% Production when constructing [Food] buildings [in all cities]"],
+		"uniques": ["[+2 Food] from every [Flood plains]", "[+1 Production] from every [Flood plains]", "[+1 Gold] from every [Flood plains]", "[+1 Production] from every [Oasis]", "[+25]% Production when constructing [Food] buildings [in all cities]", "[{Wounded}{Military}] units gain the [Amphibious] promotion <upon conquering a city>"],
 	
-		"cities":["Ua","Usa","Ida","Amanasa","Asa","Asu","Osu","Ousa","Ansu","Ussu","Aoda","Daona","Odana","Osasa","Dasana","Assud","Dassa","Idasa","Isa","Os","Aos","Ios","Idos","Dosai","Idon","Oodi","Uano","Uana","Id","Idanasa"]
+		"cities":["Ua","Usa","Uda","Uwu","Amanasa","Asa","Asu","Osu","Ousa","Ansu","Ussu","Aoda","Daona","Odana","Osasa","Dasana","Assud","Dassa","Idasa","Isa","Os","Aos","Ios","Idos","Dosai","Idon","Oodi","Uano","Uana","Id","Idanasa"]
 	}
 ]
