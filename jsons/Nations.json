@@ -5,7 +5,7 @@
 		"leaderName":"The Great Unifier Uordus",
 		"adjective":["Unandai"],
   "style": "Mesopotamian",
-		"startBias":["Flood plains", "Desert"],
+		"startBias":["Flood plains"],
 		"preferredVictoryType":"Domination",
   "personality": "Ua", 
 		
@@ -13,7 +13,7 @@
 		"startIntroPart2": "Oh Great Uordus! The masses call for your name, and your great armies are willing to defend for your guiding hand and shining presence. Will the Hilu and Alu flow with your presence? Will the skies continue to shine on your productive mud farms and bustling cities? Will you stand the test of time?",
 		
 		"declaringWar":"The Ai calls us to war, so prepare to die.",
-		"attacked":"Well, well, well. Let us see if you could stand the might of our sper and shield.",
+		"attacked":"uwu? Well, well, well. Let us see if you could stand the might of our sper and shield.",
 		"defeated":"Sigh... It is okay, it is okay. Just remember that Hilu and Alu still flows without us, and I hope that reminds you of the fact that nobody lasts forever.",
 		"introduction":"O-ho! A foreigner! You are very welcome at my prosperous empire.",
 		
@@ -31,10 +31,10 @@
 		"tradeRequest":"Could you care to share some blessings with me?",
 				
 		"outerColor":[125, 216, 240],
-		"innerColor":[60, 15, 220],
+		"innerColor":[90, 45, 250],
 		
 		"uniqueName": "Mesopotamian Prosperity",
-		"uniques": ["[+2 Food, +1 Gold, +1 Production] from every [Flood plains]", "[+1 Production] from every [Oasis]", "[+20]% Production when constructing [Food] buildings [in all cities]", "[{Wounded} {Military}] units gain the [Amphibious] promotion <upon conquering a city>", "[+3 Gold] in cities on [River] tiles"],
+		"uniques": ["[+1 Food, +1 Gold, +1 Production, +1 Culture] from every [Flood plains]", "[+1 Production] from every [Oasis]", "[+1 Food, -1 Gold] from every [River]", "[+20]% Production when constructing [Food] buildings [in all cities]", "[{Wounded} {Military}] units gain the [Amphibious] promotion <upon conquering a city>", "[+3 Gold] in cities on [River] tiles"],
 	
 		"cities":["Ua","Usa","Uda","Uwu","Amanasa","Asa","Asu","Osu","Ousa","Ansu","Ussu","Aoda","Daona","Odana","Osasa","Dasana","Assud","Dassa","Idasa","Isa","Os","Aos","Ios","Idos","Dosai","Idon","Oodi","Uano","Uana","Id","Idanasa"]
 	}
